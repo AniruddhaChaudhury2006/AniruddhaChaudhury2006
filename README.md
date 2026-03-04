@@ -1,1 +1,1 @@
-The following is a code created using Python on Google colab. It helps in optimizing emergency services solely using gen AI. LightGBM Machine Learning Model is used for this purpose. A Chatbot is created which asks a series of questions about the emergency situation and answers accordingly on whether to dispatch drone or ambulance based on its severity.
+
